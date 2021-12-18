@@ -69,11 +69,11 @@ public class UsefulMethods {
             case 7:
                 if (Main.flipper) {
                     Main.xArray[3]++;
-                    Main.xArray[7]++;
+                    Main.xArray[4]++;
                     Main.xArray[8]++;
                 } else {
                     Main.oArray[3]++;
-                    Main.oArray[7]++;
+                    Main.oArray[4]++;
                     Main.oArray[8]++;
                 }
                 break;
